@@ -26,7 +26,7 @@
 ### 👨‍💻 About Me
 - 🎓 B.Tech **Electronics & Computer Science** @ **PVPIT**
 - 🔐 **Cybersecurity Enthusiast** focused on practical security fundamentals
-- 🛡️  **Windows/Linux security** & **information security awareness**
+- 🛡️  Interested in: **Windows/Linux security** & **information security awareness**
 - 🚧 Currently: **Cybersecurity Internship @ Acmegrade**
 
 ---
